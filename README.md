@@ -7,6 +7,7 @@ My name is Harmony Stella AWLISHIE and I am a full-stack web and mobile develope
 I am open to collaboration opportunities that can help me learn and improve as a developer. I welcome any feedback and advice to help me improve my application development skills.
 
 You can reach me on the following platforms:
+
 Discord: @Harmony-Stella#2210
 
 Twitter: @starbriny
