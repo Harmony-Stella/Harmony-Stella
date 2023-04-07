@@ -8,8 +8,11 @@ I am open to collaboration opportunities that can help me learn and improve as a
 
 You can reach me on the following platforms:
 Discord: @Harmony-Stella#2210
+
 Twitter: @starbriny
+
 LinkedIn: @harmony-stella-awlishie
+
 Email: harmonyawlishie@gmail.com
 
 Thank you.
