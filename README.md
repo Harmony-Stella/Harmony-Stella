@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello Guys 💻
 
-<!--
-**Harmony-Stella/Harmony-Stella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Harmony Stella AWLISHIE and I am a full-stack web and mobile developer. I have experience using a variety of technologies, including Python, Django, Angular, Java, Spring Boot, Flutter, and more.
 
-Here are some ideas to get you started:
+ I am always eager to learn new languages and technologies to expand my skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to collaboration opportunities that can help me learn and improve as a developer. I welcome any feedback and advice to help me improve my application development skills.
+
+You can reach me on the following platforms:
+Discord: @Harmony-Stella#2210
+Twitter: @starbriny
+LinkedIn: @harmony-stella-awlishie
+Email: harmonyawlishie@gmail.com
+
+Thank you.
