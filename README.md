@@ -8,7 +8,7 @@ I am open to collaboration opportunities that can help me learn and improve as a
 
 You can reach me on the following platforms:
 
-Discord: @Harmony-Stella#2210
+Discord: @harmony-stella#2210
 
 Twitter: @starbriny
 
