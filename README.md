@@ -10,7 +10,7 @@ You can reach me on the following platforms:
 
 Discord: @harmony-stella#2210
 
-Twitter: @mawufedzro
+X: @mawufedzro
 
 LinkedIn: @harmony-stella-awlishie
 
