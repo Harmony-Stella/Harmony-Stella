@@ -1,6 +1,6 @@
 ### Hello Guys 💻
 
-My name is Harmony Stella AWLISHIE and I am a full-stack web and mobile developer. I have experience using a variety of technologies, including Python, Django, Angular, Java, Spring Boot, Flutter, and more.
+My name is Harmony Stella AWLISHIE and I am a full-stack web developer. I have experience using a variety of technologies, including Python(Django and Flask), Angular  and more.
 
  I am always eager to learn new languages and technologies to expand my skillset.
 
@@ -16,4 +16,4 @@ LinkedIn: @harmony-stella-awlishie
 
 Email: harmonyawlishie@gmail.com
 
-Thank you.
+Thanks.
