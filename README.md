@@ -1,10 +1,12 @@
 ### Hello Guys 💻
 
-My name is Harmony Stella AWLISHIE and I am a full-stack web developer. I have experience using a variety of technologies, including Python(Django and Flask), Angular  and more.
+My name is Harmony. I’m a full stack developer, data analyst, digital project manager, and social media strategist. My hybrid profile allows me to bridge the gap between technical development, data-driven decision making, and digital communication with a results-oriented mindset.
 
- I am always eager to learn new languages and technologies to expand my skillset.
+I have hands-on experience building web applications, dashboards, and marketing platforms using technologies like PHP, Symfony, Angular, Flask, WordPress, and Python. Whether it’s designing scalable software, analyzing complex datasets, or managing cross-functional teams, I bring adaptability, precision, and creativity to every project.
 
-I am open to collaboration opportunities that can help me learn and improve as a developer. I welcome any feedback and advice to help me improve my application development skills.
+Driven by curiosity and committed to delivering value, I thrive at the intersection of tech, strategy, and user experience.
+
+My mission: building meaningful digital solutions that make an impact.
 
 You can reach me on the following platforms:
 
