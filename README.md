@@ -10,8 +10,6 @@ You can reach me on the following platforms:
 
 Discord: @harmony-stella#2210
 
-X: @mawufedzro
-
 LinkedIn: @harmony-stella-awlishie
 
 Email: harmonyawlishie@gmail.com
